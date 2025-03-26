@@ -14,7 +14,7 @@ export default function Dashboard() {
     async function loadSession() {
       try {
         const session = await getSession();
-        if (session) {
+        if (session && session.user.email) {
           setUserEmail(session.user.email);
         } else {
           router.push('/etc/login-style-1');

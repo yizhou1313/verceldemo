@@ -7,7 +7,7 @@
     }
   ],
   "env": {
-    "NEXT_PUBLIC_SUPABASE_URL": "https://qyctsyuvjygdtdiafaco.supabase.com",
+    "NEXT_PUBLIC_SUPABASE_URL": "https://qyctsyuvjygdtdiafaco.supabase.co",
     "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InF5Y3RzeXV2anlnZHRkaWFmYWNvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDI4OTA1OTcsImV4cCI6MjA1ODQ2NjU5N30.Fl4LAemtX0czQcMpLlE1OAbCCX79eCdAVOYD3X7i9i8"
   }
 } 
